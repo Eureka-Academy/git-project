@@ -1,4 +1,4 @@
-# eureka-git
+# git-project
 
 Short project for Git demonstration.
 
